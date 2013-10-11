@@ -22,7 +22,7 @@ See LICENSE file and for full terms or: http://creativecommons.org/licenses/by-s
         <xs:element minOccurs="1" maxOccurs="unbounded" ref="LAYER" />
       </xs:sequence>
       <xs:attribute name="SNET_NAME" type="xs:string" use="required" />
-	  <xs:attribute name="ADJUST_LOCK" type="xs:integer" use="required" />	  
+      <xs:attribute name="ADJUST_LOCK" type="xs:integer" use="required" />	  
       <xs:attribute name="NNET_V2" type="xs:double" use="required" />
     </xs:complexType>
   </xs:element>
