@@ -1,7 +1,7 @@
 ANNeML
 ======
 
-Artificial Neural Network Markup Language version 1.0.0
+***A***rtificial ***N***eural ***Ne***twork ***M***arkup ***L***anguage version 1.0.0
 
 Distributed under a Creative Commons BY-SA 3.0 license
 
