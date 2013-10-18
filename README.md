@@ -9,4 +9,6 @@ Distributed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.
 or logarithmic sigmoid) continious output feedforward with error backpropogation. A large variety of different neural net
 layouts are possible with this simple schema.
 
-<a hred="https://github.com/adam-nnl/ANNeML/wiki" target="_BLANK">See the wiki for more information</a>
+<a href="https://github.com/adam-nnl/Erudite" target="_BLANK">Erudite</a> is the sister program to ANNeML that allows for training and processing of neural networks written with ANNeML.
+
+<a hred="https://github.com/adam-nnl/ANNeML/wiki" target="_BLANK">See the ANNeML wiki for more information</a>
