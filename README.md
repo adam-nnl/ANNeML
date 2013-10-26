@@ -11,4 +11,4 @@ layouts are possible with this simple schema.
 
 <a href="https://github.com/adam-nnl/Erudite" target="_BLANK">Erudite</a> is the sister program to ANNeML that allows for training and processing of neural networks written with ANNeML.
 
-<a hred="https://github.com/adam-nnl/ANNeML/wiki" target="_BLANK">See the ANNeML wiki for more information</a>
+<a href="https://github.com/adam-nnl/ANNeML/wiki" target="_BLANK">See the ANNeML wiki for more information</a>
